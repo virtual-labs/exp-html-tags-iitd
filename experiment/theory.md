@@ -1,4 +1,4 @@
-### INTRODUCTION<br>
+
 **1.1 Definition**
 
 An attribute is used to define the characteristics of an HTML element and is placed inside the element's opening tag. All attributes are made up of two parts − a name and a value.
