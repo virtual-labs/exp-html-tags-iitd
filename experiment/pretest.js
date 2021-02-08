@@ -82,8 +82,8 @@
     {
       question: "Value of an attribute should always be kept in _______________",
       answers: {
-        a: "'Attribute'",
-        b: ""Attribute"",
+        a: "Single quotes",
+        b: "Double quotes",
         c: "Both",
         d: "None"
       },
