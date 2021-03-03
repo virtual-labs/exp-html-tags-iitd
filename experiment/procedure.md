@@ -1,4 +1,4 @@
-##### These procedure steps will be followed on the simulator
+### These procedure steps will be followed on the simulator
 
 1. The experiment begins with previewing the output of different attributes and their values associsted with various text in Preview Section given at the top of the Simulator by hovering the cursor in the Select Tag -> Attribute -> Value Section given below.
 
