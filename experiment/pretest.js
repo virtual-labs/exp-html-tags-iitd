@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "Q1. Value of an attribute should always be kept in _______________",
+      question: "Q1. Value of an attribute should always be kept in _______________.",
       answers: {
         a: "Single quotes",
         b: "Double quotes",
