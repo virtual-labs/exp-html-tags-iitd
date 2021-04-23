@@ -80,10 +80,10 @@
 
   const myQuestions = [
     {
-      question: "Value of an attribute should always be kept in _______________",
+      question: "Q1. Value of an attribute should always be kept in _______________.",
       answers: {
-        a: "'Attribute'",
-        b: ""Attribute"",
+        a: "Single quotes",
+        b: "Double quotes",
         c: "Both",
         d: "None"
       },
@@ -91,7 +91,7 @@
     },
 
     {
-      question: "Attribute names and attribute values can be written in __________.",
+      question: "Q2. Attribute names and attribute values can be written in __________.",
       answers: {
         a: "Upper Case",
         b: "Lower Case",
@@ -102,7 +102,7 @@
     },
 
     {
-      question: "An attribute is used to define the characteristics of an HTML element.State True or False.",
+      question: "Q3. An attribute is used to define the characteristics of an HTML element. State True or False.",
       answers: {
         a: "True",
         b: "False"
@@ -111,7 +111,7 @@
     },
 	
 	{
-      question: "In HTML, each attribute is associated with a value.State True or False.",
+      question: "Q4. In HTML, each attribute is associated with a value. State True or False.",
       answers: {
         a: "True",
         b: "False"
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "We can use __________attributes in a tag.",
+      question: "Q5. We can use __________attributes in a tag.",
       answers: {
         a: "One",
         b: "Two",

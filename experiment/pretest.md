@@ -1,13 +1,13 @@
 ## Pre-test
 #### Please attempt the following questions
 
-Q1. Value of an attribute should always be kept in _______________<br>
-A  'attribute'<br>
-<b>B  "attribute"<br></b>
+Q1. Value of an attribute should always be kept in _______________.<br>
+A  Single quotes<br>
+<b>B  Double quotes<br></b>
 C  Both<br>
 D  None<br>
 
-Q2. Attribute names and attribute values can be written in __________ <br>
+Q2. Attribute names and attribute values can be written in __________. <br>
 A  Upper Case<br>
 <b>B  Lower Case<br></b>
 C  Both<br>

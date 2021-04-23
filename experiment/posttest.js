@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "Q1. Select attributes which are used with ‹body› tag in html.",
+      question: "Q1. Select attributes which are used with â€¹bodyâ€º tag in html.",
       answers: {
         a: "bgcolor",
         b: "background",
@@ -91,7 +91,7 @@
     },
 
     {
-      question: "title attribute can be used in ______________ ?",
+      question: "Q2. title attribute can be used in ______________ ?",
       answers: {
         a: "head",
         b: "body",
@@ -102,7 +102,7 @@
     },
 
     {
-      question: "Align attribute can be used with ‹p› and ‹h1› tags both.",
+      question: "Q3. Align attribute can be used with â€¹pâ€º and â€¹h1â€º tags both.",
       answers: {
         a: "True",
         b: "False"        
@@ -111,7 +111,7 @@
     },
 	
 	{
-      question: "Attributes are used within the closing tag of HTML element. State True or False.",
+      question: "Q4. Attributes are used within the closing tag of HTML element. State True or False.",
       answers: {
         a: "True",
         b: "False"        
@@ -120,7 +120,7 @@
     },
 	
 	{
-      question: "We can change color of the text in web page through _____________ attribute.",
+      question: "Q5. We can change color of the text in web page through _____________ attribute.",
       answers: {
         a: "changecolor",
         b: "setcolor",
