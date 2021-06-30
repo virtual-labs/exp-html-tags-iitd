@@ -91,7 +91,7 @@
     },
 
     {
-      question: "Q2. title attribute can be used in ______________ ?",
+      question: "Q2. title tag can be used in ______________ ?",
       answers: {
         a: "head",
         b: "body",
