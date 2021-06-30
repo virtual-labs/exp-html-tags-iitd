@@ -127,7 +127,7 @@
         c: "text",
         d: "None"
       },
-      correctAnswer: "b"
+      correctAnswer: "c"
     },
   ];
 
