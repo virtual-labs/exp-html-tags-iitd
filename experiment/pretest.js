@@ -87,7 +87,7 @@
         c: "Both",
         d: "None"
       },
-      correctAnswer: "b"
+      correctAnswer: "c"
     },
 
     {
@@ -98,7 +98,7 @@
         c: "Both",
         d: "None"
       },
-      correctAnswer: "b"
+      correctAnswer: "c"
     },
 
     {
