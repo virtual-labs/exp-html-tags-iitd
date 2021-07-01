@@ -111,7 +111,7 @@
     },
 	
 	{
-      question: "Q4. In HTML, each attribute is associated with a value. State True or False.",
+      question: "Q4. In HTML, Each attribute is associated with a value. State True or False.",
       answers: {
         a: "True",
         b: "False"
