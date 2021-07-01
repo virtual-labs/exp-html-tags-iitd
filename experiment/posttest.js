@@ -123,11 +123,11 @@
       question: "Q5. We can change color of the text in web page through _____________ attribute.",
       answers: {
         a: "changecolor",
-        b: "setcolor",
-        c: "text",
+        b: "text",
+        c: "setcolor",
         d: "None"
       },
-      correctAnswer: "c"
+      correctAnswer: "b"
     },
   ];
 
