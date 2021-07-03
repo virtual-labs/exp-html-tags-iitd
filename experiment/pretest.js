@@ -84,8 +84,8 @@
       answers: {
         a: "Single quotes",
         b: "Double quotes",
-	      c: "Both",
-	      d: "None"
+	c: "Both",
+	d: "None"
       },
       correctAnswer: "c"
     },
