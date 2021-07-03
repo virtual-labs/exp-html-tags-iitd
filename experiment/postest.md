@@ -22,6 +22,6 @@ A  True<br>
 
 Q5. We can change color of the text in web page through _____________ attribute.<br>
 A  "changecolor"<br>
-B  "setcolor"<br>
-<b>C  "text"<br></b>
+<b>B  "text"</b><br>
+C  "setcolor"<br>
 D  None<br>
