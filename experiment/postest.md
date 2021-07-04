@@ -6,7 +6,7 @@ B  background<br>
 C  text<br>
 <b>D  All of the above<br></b>
 
-Q2. title tag can be used in ______________ ?<br>
+Q2. Title tag can be used in ______________ ?<br>
 <b>A  head<br></b>
 B  body<br>
 C  p<br>
