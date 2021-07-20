@@ -6,7 +6,7 @@ B  background<br>
 C  text<br>
 <b>D  All of the above<br></b>
 
-Q2. title attribute can be used in ______________ ?<br>
+Q2. Title tag can be used in ______________ ?<br>
 <b>A  head<br></b>
 B  body<br>
 C  p<br>
@@ -23,5 +23,5 @@ A  True<br>
 Q5. We can change color of the text in web page through _____________ attribute.<br>
 A  "changecolor"<br>
 B  "setcolor"<br>
-<b>C  "text"<br></b>
+<b>C  "text"</b><br>
 D  None<br>

@@ -3,14 +3,14 @@
 
 Q1. Value of an attribute should always be kept in _______________.<br>
 A  Single quotes<br>
-<b>B  Double quotes<br></b>
-C  Both<br>
+B  Double quotes<br>
+<b>C  Both</b><br>
 D  None<br>
 
 Q2. Attribute names and attribute values can be written in __________. <br>
 A  Upper Case<br>
-<b>B  Lower Case<br></b>
-C  Both<br>
+B  Lower Case<br>
+<b>C  Both</b><br>
 D  None<br>
 
 Q3. An attribute is used to define the characteristics of an HTML element.<br>

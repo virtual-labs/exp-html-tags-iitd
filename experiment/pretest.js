@@ -84,10 +84,10 @@
       answers: {
         a: "Single quotes",
         b: "Double quotes",
-        c: "Both",
-        d: "None"
+	c: "Both",
+	d: "None"
       },
-      correctAnswer: "b"
+      correctAnswer: "c"
     },
 
     {
@@ -98,7 +98,7 @@
         c: "Both",
         d: "None"
       },
-      correctAnswer: "b"
+      correctAnswer: "c"
     },
 
     {
@@ -111,7 +111,7 @@
     },
 	
 	{
-      question: "Q4. In HTML, each attribute is associated with a value. State True or False.",
+      question: "Q4. In HTML, Each attribute is associated with a value. State True or False.",
       answers: {
         a: "True",
         b: "False"
