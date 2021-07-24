@@ -91,14 +91,14 @@
     },
 
     {
-      question: "Q2. Title tag can be used in ______________ ?",
+      question: "Q2. Title attribute can be used in ______________ tag?",
       answers: {
-        a: "head",
-        b: "body",
-        c: "p",
+        a: "p",
+        b: "h1",
+        c: "both",
         d: "none"
       },
-      correctAnswer: "a"
+      correctAnswer: "c"
     },
 
     {
