@@ -6,10 +6,10 @@ B  background<br>
 C  text<br>
 <b>D  All of the above<br></b>
 
-Q2. Title tag can be used in ______________ ?<br>
-<b>A  head<br></b>
-B  body<br>
-C  p<br>
+Q2. Title attribute can be used in ____________ tag ?<br>
+A  p<br>
+B  h1<br>
+<b>C  both<br></b>
 D  none<br>
 
 Q3. Align attribute can be used with ‹p› and ‹h1› tags both.<br>
