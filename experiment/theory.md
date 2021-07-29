@@ -17,9 +17,9 @@ An attribute is used to define the characteristics of an HTML element and is pla
 
 A title attribute is added to the ‹p› tag. The value of the title attribute will be displayed as a tooltip when you mouse over the paragraph.
 
-A bgcolor attribute is added to the ‹body› tag. The value of the bgcolor attribute can be numeric, hexidecimal, RGB values. According to the value chosen the background color of the page will appear in the browser.
+A bgcolor attribute is added to the ‹body› tag. The value of the bgcolor attribute can be name, hexadecimal, RGB values. According to the value chosen the background color of the page will appear in the browser.
 
-A text attribute is added to the ‹body› tag. The value of the text attribute can be numeric, hexidecimal, RGB values. According to the value chosen the background color of the page will appeare in the browser.
+A text attribute is added to the ‹body› tag. The value of the text attribute can be name, hexadecimal, RGB values. According to the value chosen the background color of the page will appear in the browser.
 
 
 
