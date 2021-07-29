@@ -26,4 +26,4 @@ A text attribute is added to the ‹body› tag. The value of the text attribute
 ### Note:
  
 - Attribute names and attribute values are case-insensitive.
-- Using double quotes are the most common but you can also use single quotes. Omitting quotes can produce errors. we always use quotes around attribute values.
+- Using double quotes are the most common but you can also use single quotes. Omitting quotes can produce errors. We always use quotes around attribute values.
