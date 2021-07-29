@@ -1,0 +1,42 @@
+[{
+	"question": "Q1. Select attributes which are used with ‹body› tag in html.",
+	"answers": {
+		"a": "bgcolor",
+		"b": "background",
+		"c": "text",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Q2. Title attribute can be used in ______________ tag ?",
+	"answers": {
+		"a": "p",
+		"b": "h1",
+		"c": "both",
+		"d": "none"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Q3. Align attribute can be used with ‹p› and ‹h1› tags both.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q4. Attributes are used within the closing tag of HTML element. State True or False.",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Q5. We can change color of the text in web page through _____________ attribute.",
+	"answers": {
+		"a": "changecolor",
+		"b": "text",
+		"c": "setcolor",
+		"d": "None"
+	},
+	"correctAnswer": "b"
+}]
